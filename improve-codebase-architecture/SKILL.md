@@ -62,8 +62,7 @@ After comparing, give your own recommendation: which design you think is stronge
 
 ### 6. Create GitHub issue
 
-Create a refactor RFC as a GitHub issue using `gh issue create`. Use the template in [REFERENCE.md](REFERENCE.md). Do NOT ask the user to review before creating — just create it and share the URL.
-
+Create a refactor as .MD file. Do NOT ask the user to review before creating — just create it and share the file.
 
 BOLT SDK
 SLACK API
